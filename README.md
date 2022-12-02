@@ -12,7 +12,7 @@ This program requires at least Java 11 to compile and run properly.
 - H2 Database
 
 ## Credits
-**Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+**Author:** Mo Balti - [mobalti](https://github.com/mobalti)
 
 This program is based on Web Quiz Engine project on JetBrains Academy.
 
